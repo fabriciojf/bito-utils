@@ -1,0 +1,17 @@
+{
+  "name": "bito.utils",
+  "version": "1.0.0",
+  "description": "Development Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils",
+    "utilities"
+  ],
+   "dependencies": {
+   },
+  "author": "Fabricio S Costa fabriciojf@gmail.com",
+  "license": "ISC"
+}
