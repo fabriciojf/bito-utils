@@ -1,7 +1,7 @@
 
 # bito.utils
 
-[Fabricio Costa Personal Site](https://fabriciojf.com)
+[Personal Site](https://fabriciojf.com)
 
 ## Description
 
