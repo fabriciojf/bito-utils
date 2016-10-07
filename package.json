@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Development Utilities",
   "main": "index.js",
+  "readmeFilename": "Readme.md" ,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +12,20 @@
     "utilities"
   ],
    "dependencies": {
-   },
-  "author": "Fabricio S Costa fabriciojf@gmail.com",
-  "license": "ISC"
+  },
+  "author": {
+    "name": "Fabricio Costa",
+    "email": "fabriciojf@gmail.com",
+    "homepage": "http://fabriciojf.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciojf/bito-utils" 
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "index.js"
 }
+
