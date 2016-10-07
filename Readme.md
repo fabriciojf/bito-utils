@@ -1,12 +1,23 @@
 
 # bito.utils
 
-[![Personal Site](https://fabriciojf.com)](https://fabriciojf.com)
+[Fabricio Costa Personal Site](https://fabriciojf.com)
+
+## Description
+
+Utilities javascript to [Node.js](https://nodejs.org) 
+
+
+## Install
+
+```console
+$ npm install bito.utils
+```
 
 ## How to use
 
 The following example attaches bito.utils to a plain Node.JS
-HTTP server listening on port `3000`.
+HTTP server listening on port `3005`.
 
 ```js
 /**
