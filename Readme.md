@@ -30,6 +30,6 @@ http.listen('3005');
  * How to Use
  * String.format example
  */
-var string = require('./tools/strings');
-console.log(string.prototype.format("{0} to {1}", "bito.utils", "node.js"));
+var bito = require('bito.utils');
+console.log(bito.String.prototype.format("{0} to {1}", "bito.utils", "node.js"));
 ```

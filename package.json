@@ -1,6 +1,6 @@
 {
   "name": "bito.utils",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Development Utilities",
   "main": "index.js",
   "readmeFilename": "Readme.md" ,
@@ -25,7 +25,6 @@
   "license": "MIT",
   "engines": {
     "node": ">=0.8.0"
-  },
-  "main": "index.js"
+  }
 }
 
