@@ -1,5 +1,6 @@
 
 strings = require('./tools/strings');
+dates = require('./tools/dates');
 
 /**
  * Module exports
