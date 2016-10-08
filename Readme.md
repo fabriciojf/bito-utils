@@ -10,16 +10,11 @@ Utilities javascript to [Node.js](https://nodejs.org)
 
 ## Install
 
-As it is simple and useful javascript functions, you can download the package for server or client side
+As it is simple and useful javascript functions, you can download the package for server node.js
 
-### Server Side
 ```console
 $ npm install bito.utils
 ```
-
-### Client Side
-```console
-$ bower install bito.utils
 ```
 
 ## How to use
@@ -39,7 +34,8 @@ http.listen('3005');
  * String.format example
  */
 var bito = require('bito.utils');
-console.log(bito.String.prototype.format("{0} to {1}", "bito.utils", "node.js"));
+var bDate = new index.Date();
+console.log(bDate.toDate(new Date()));
 ```
 
 ### Strings
@@ -50,7 +46,8 @@ console.log(bito.String.prototype.format("{0} to {1}", "bito.utils", "node.js"))
  * String.format example
  */
 var bito = require('bito.utils');
-console.log(bito.String.prototype.format("{0} to {1}", "bito.utils", "node.js"));
+var bString = new index.String();
+console.log(bString.format("{0} to {1}", "bito.utils", "node.js"));
 ```
 
 #### Output
@@ -66,9 +63,10 @@ bito.utils to node.js
  * String.format example
  */
 var bito = require('bito.utils');
-console.log(bito.Date.prototype.toDateTime(new Date()));
-console.log(bito.Date.prototype.toTime(new Date())); 
-console.log(bito.Date.prototype.toDate(new Date())); 
+var bDate = new index.Date();
+console.log(bDate.toDateTime(new Date()));
+console.log(bDate.toTime(new Date()));
+console.log(bDate.toDate(new Date())); 
 ```
 
 #### Output

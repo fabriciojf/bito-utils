@@ -1,3 +1,8 @@
+1.0.12 / 2016-10-08
+==================
+
+  * [prototype] Applying the correct techniques of the prototype source, testing and documentation
+
 1.0.11 / 2016-10-08
 ==================
 

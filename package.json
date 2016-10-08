@@ -1,6 +1,6 @@
 {
   "name": "bito.utils",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Development Utilities",
   "main": "index.js",
   "readmeFilename": "Readme.md",
