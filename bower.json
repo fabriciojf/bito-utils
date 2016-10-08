@@ -1,0 +1,29 @@
+{
+  "name": "bito.utils",
+  "version": "1.0.10",
+  "description": "Development Utilities",
+  "main": "index.js",
+  "readmeFilename": "Readme.md",
+  "author": {
+    "name": "Fabricio Costa",
+    "email": "fabriciojf@gmail.com",
+    "homepage": "http://fabriciojf.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "utils",
+    "utilities"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabriciojf/bito-utils"
+  },
+  "homepage": "https://github.com/fabriciojf/bito-utils",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
