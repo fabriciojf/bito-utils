@@ -1,6 +1,7 @@
 1.0.4 / 2016-10-08
 ==================
 
+  * [fix] Call addition to dates module in index.js
   * [feature] Adding the module dates for dates treatments 
 
 1.0.3 / 2016-10-07

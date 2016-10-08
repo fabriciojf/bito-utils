@@ -15,3 +15,4 @@ function Utils() {}
  * String Functions
  */
 Utils.String = strings;
+Utils.Date = dates;
