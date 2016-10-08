@@ -45,6 +45,11 @@ var bito = require('bito.utils');
 console.log(bito.String.prototype.format("{0} to {1}", "bito.utils", "node.js"));
 ```
 
+#### Output
+```console
+bito.utils to node.js
+```
+
 ### Dates
 
 ```js
@@ -56,4 +61,11 @@ var bito = require('bito.utils');
 console.log(bito.Date.prototype.toDateTime(new Date()));
 console.log(bito.Date.prototype.toTime(new Date())); 
 console.log(bito.Date.prototype.toDate(new Date())); 
+```
+
+#### Output
+```console
+2016/10/08 8:14:41                                                                                                             
+8:14:41                                                                                                                        
+2016/91/08
 ```
