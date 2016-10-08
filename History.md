@@ -1,6 +1,11 @@
-1.0.4 / 2016-10-08
+1.0.7 / 2016-10-08
 ==================
 
+  * [fix] Adjustments in the documentation adding the module dates
+
+1.0.4 / 2016-10-08
+==================
+  
   * [fix] Call addition to dates module in index.js
   * [feature] Adding the module dates for dates treatments 
 

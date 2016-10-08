@@ -33,3 +33,27 @@ http.listen('3005');
 var bito = require('bito.utils');
 console.log(bito.String.prototype.format("{0} to {1}", "bito.utils", "node.js"));
 ```
+
+### Strings
+
+```js
+/**
+ * How to Use
+ * String.format example
+ */
+var bito = require('bito.utils');
+console.log(bito.String.prototype.format("{0} to {1}", "bito.utils", "node.js"));
+```
+
+### Dates
+
+```js
+/**
+ * How to Use
+ * String.format example
+ */
+var bito = require('bito.utils');
+console.log(bito.Date.prototype.toDateTime(new Date()));
+console.log(bito.Date.prototype.toTime(new Date())); 
+console.log(bito.Date.prototype.toDate(new Date())); 
+```
