@@ -21,6 +21,11 @@
     "type": "git",
     "url": "git+https://github.com/fabriciojf/bito-utils"
   },
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
   "license": "MIT",
   "engines": {
     "node": ">=0.8.0"
