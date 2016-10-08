@@ -1,18 +1,17 @@
 {
   "name": "bito.utils",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Development Utilities",
   "main": "index.js",
-  "readmeFilename": "Readme.md" ,
+  "readmeFilename": "Readme.md",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/*"
   },
   "keywords": [
     "utils",
     "utilities"
   ],
-   "dependencies": {
-  },
+  "dependencies": {},
   "author": {
     "name": "Fabricio Costa",
     "email": "fabriciojf@gmail.com",
@@ -20,11 +19,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fabriciojf/bito-utils" 
+    "url": "git+https://github.com/fabriciojf/bito-utils"
   },
   "license": "MIT",
   "engines": {
     "node": ">=0.8.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.0",
+    "mockery": "^2.0.0",
+    "sinon": "^1.17.6"
   }
 }
-

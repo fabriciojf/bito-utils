@@ -65,7 +65,7 @@ console.log(bito.Date.prototype.toDate(new Date()));
 
 #### Output
 ```console
-2016/10/08 8:14:41                                                                                                             
-8:14:41                                                                                                                        
+2016/10/08 8:14:41
+8:14:41
 2016/91/08
 ```
