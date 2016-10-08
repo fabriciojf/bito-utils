@@ -10,8 +10,16 @@ Utilities javascript to [Node.js](https://nodejs.org)
 
 ## Install
 
+As it is simple and useful javascript functions, you can download the package for server or client side
+
+### Server Side
 ```console
 $ npm install bito.utils
+```
+
+### Client Side
+```console
+$ bower install bito.utils
 ```
 
 ## How to use

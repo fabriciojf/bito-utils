@@ -1,3 +1,8 @@
+1.0.11 / 2016-10-08
+==================
+
+  * [bower] Adjustments to publish in bower: bower install bito.utils
+
 1.0.8 / 2016-10-08
 ==================
 
@@ -18,7 +23,7 @@
 ==================
 
   * [namespace] Inclusion of files to facilitate the import and use of the library
-  * [npm] Adjustments to publish in npm.org
+  * [npm] Adjustments to publish in npm.org: npm install bito.utils
 
 1.0.0 / 2016-10-07
 ==================
