@@ -5,7 +5,7 @@
 
 ## Description
 
-Utilities javascript to [Node.js](https://nodejs.org) 
+Utilities javascript to [Node.js](https://nodejs.org), library to study how to publish NPM in npm.org
 
 
 ## Install
@@ -14,7 +14,6 @@ As it is simple and useful javascript functions, you can download the package fo
 
 ```console
 $ npm install bito.utils
-```
 ```
 
 ## How to use
@@ -51,6 +50,7 @@ console.log(bString.format("{0} to {1}", "bito.utils", "node.js"));
 ```
 
 #### Output
+See [momentjs](http://momentjs.com/)
 ```console
 bito.utils to node.js
 ```
